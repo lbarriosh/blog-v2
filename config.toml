@@ -1,0 +1,4 @@
+baseURL = 'https://luisbarrios.org/'
+languageCode = 'en-us'
+title = 'Luis Barrios'
+theme = 'PaperMod'
